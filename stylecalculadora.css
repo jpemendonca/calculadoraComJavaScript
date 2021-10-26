@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    display: flex;
+    background-color: black;
+}
+
+.calc{
+    margin: auto;
+    height: 530px;
+    min-width: 400px;
+    max-width: 400px;
+    width: 40%;
+    margin-top: 3%;
+    border-radius: 5px;
+}
+
+.tecla{
+    height: 80px;
+    min-width: 30px;
+    width: 20%;
+    margin-bottom: 5px;
+}
+
+.tela{
+    margin: auto;
+    margin-bottom: 15px;
+    background-color: blueviolet;
+    height: 65px;
+    width: 95%;
+    margin-top: 15px;
+    border-radius: 5px;
+    font-size: 40px;
+    align-content: center;
+    display: flex;
+}
+
+h2{
+    margin-top: auto;
+    margin-left: auto;
+
+}
+
+#limpar{
+    width: 80%;
+    margin-top: 10px;
+    height: 70px;
+}
