@@ -1,4 +1,3 @@
-// O operando1 da calculadora terá no maximo 18 caracteres
 
 let tela = document.getElementById('tela')
 
